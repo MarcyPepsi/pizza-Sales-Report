@@ -4,7 +4,7 @@
 
 Ce projet est un tableau de bord interactif réalisé avec Power BI, permettant d’analyser les ventes de pizzas sur une période d'un an.
 
-C’est un projet d'apprentissage réalisé à partir d'un tutoriel proposé par la chaîne YouTube [Data Tutorials][(https://www.youtube.com/@datatutorials1)], qui a également fourni les données.
+C’est un projet d'apprentissage réalisé à partir d'un tutoriel proposé par la chaîne YouTube [Data Tutorials](https://www.youtube.com/@datatutorials1), qui a également fourni les données.
 
 ---
 
