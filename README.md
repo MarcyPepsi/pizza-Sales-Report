@@ -57,13 +57,6 @@ Les données proviennent d’un fichier SQL contenant les ventes de pizzas :
 ![pizza_sales_report_page2](https://github.com/user-attachments/assets/7f6ce1fb-9ee0-48dc-8613-a81d95fbc2f5)
 
 
-## Accès au Projet
-
-
-- 📂 Télécharger le fichier Power BI (.pbix) : 
-
----
-
 
 ## Technologies utilisées
 
@@ -76,7 +69,7 @@ Les données proviennent d’un fichier SQL contenant les ventes de pizzas :
 
 ## Remerciements
 
-Merci à la chaîne [Data Tutorials](https://www.youtube.com/@DataTutorials) pour les ressources et les explications.
+Merci à la chaîne [Data Tutorials](https://www.youtube.com/@datatutorials1) pour les ressources et les explications.
 
 ---
 
